@@ -3,13 +3,17 @@
 # This file is used by Google as part of our samples packaging process.
 # End users may safely ignore this file. It has no relevance to other systems.
 ---
-
 status:       PUBLISHED
 technologies: [Android]
 categories:   [Sensors]
 languages:    [Java]
 solutions:    [Mobile]
-github:       googlesamples/android-BatchStepSensor
+github:       android-BatchStepSensor
 level:        BEGINNER
-icon:         BatchStepSensorSample/screenshots/big_icon.png
-license:      apache2-android
+icon:         screenshots/big_icon.png
+api_refs:
+    - android:android.hardware.Sensor
+    - android:android.hardware.SensorEvent
+    - android:android.hardware.SensorEventListener
+    - android:android.hardware.SensorManager
+license: apache2
