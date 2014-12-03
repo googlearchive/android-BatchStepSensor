@@ -11,7 +11,7 @@ solutions:    [Mobile]
 github:       android-BatchStepSensor
 level:        BEGINNER
 icon:         screenshots/big_icon.png
-api_refs:
+apiRefs:
     - android:android.hardware.Sensor
     - android:android.hardware.SensorEvent
     - android:android.hardware.SensorEventListener
