@@ -9,7 +9,7 @@ categories:   [Sensors]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-BatchStepSensor
-level:        BEGINNER
+level:        ADVANCED
 icon:         screenshots/big_icon.png
 apiRefs:
     - android:android.hardware.Sensor
