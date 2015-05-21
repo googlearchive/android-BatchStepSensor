@@ -1,3 +1,4 @@
+
 Android BatchStepSensor Sample
 ===================================
 
